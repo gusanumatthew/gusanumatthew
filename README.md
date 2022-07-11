@@ -5,5 +5,3 @@
 
 - 💻 I don't just build apps, i build solutions
 - 🌱 I’m currently learning Node JS
-
-
