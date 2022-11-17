@@ -28,7 +28,8 @@
 - 👯 I build mobile solutions 💻 with Flutter/Dart.
 - 🌱 I’m currently learning Node JS...
 - 👯 I’m looking to collaborate on mobile engineering projects
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gusanumatthew-blue?style=flat&logo=Linkedin&logoColor=white(www.linkedin.com/in/matthew-gusanu-2409701a2/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adevikki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adeala-victor/)
+
 
 ---
 
