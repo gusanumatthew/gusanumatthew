@@ -24,7 +24,7 @@
 </div>
 
 - 👋 Hi, I’m Matthew Gusanu.
-- 💼 I'm a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- 💼 I'm a Mobile Engineer
 - 👯 I build mobile solutions 💻 with Flutter/Dart.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DeveloperMatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-gusanu-2409701a2/)
 
