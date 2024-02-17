@@ -26,8 +26,6 @@
 - 👋 Hi, I’m Matthew Gusanu.
 - 💼 I'm a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 👯 I build mobile solutions 💻 with Flutter/Dart.
-- 🌱 I’m currently learning Node JS...
-- 👯 I’m looking to collaborate on mobile engineering projects
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DeveloperMatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-gusanu-2409701a2/)
 
 
@@ -41,8 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" 
 height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
