@@ -23,10 +23,10 @@
 :man_technologist: About Me :
 </div>
 
-- 👋 Hi, I’m Matthew Gusanu.
+- 👋 Hi, I’m Matt The New Prototype
 - 💼 I'm a Mobile Engineer
-- 👯 I build mobile solutions 💻 with Flutter/Dart.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DeveloperMatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-gusanu-2409701a2/)
+- 👯 I build mobile solutions 💻.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DeveloperMatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewgusanu/)
 
 
 ---
@@ -35,11 +35,14 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+    <img src="  https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Koltin" alt="Koltin" width="40" height="40"/>&nbsp; 
+  <img src="  https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" 
 height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 
