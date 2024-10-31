@@ -24,7 +24,7 @@
 </div>
 
 - 👋 Hi, I’m Matt The New Prototype
-- 💼 I'm a Mobile Engineer
+- 💼 I'm a Software Engineer
 - 👯 I build mobile solutions 💻.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DeveloperMatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewgusanu/)
 
