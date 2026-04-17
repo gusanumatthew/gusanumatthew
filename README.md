@@ -7,7 +7,7 @@ Flutter engineer with 5+ years shipping production apps across fintech, gaming, 
 
 ---
 
-**15+ apps shipped · 100K+ downloads · 5 years experience**
+**15+ apps shipped · 100K+ downloads · 5+ years experience**
 
 ---
 
